@@ -1,8 +1,6 @@
 # 🔐 Kali Linux Security Labs
 This repository contains practical cybersecurity experiments performed on Kali Linux using various penetration testing tools.
 
----
-
 ## 🧪 Tools Used
 
 - Nmap — Network scanning and enumeration  
@@ -10,25 +8,17 @@ This repository contains practical cybersecurity experiments performed on Kali L
 - Burp Suite — Web application testing  
 - More tools will be added as I progress  
 
----
-
----
-
 ## 📌 Purpose
 
 - Practice cybersecurity tools in a lab environment  
 - Document commands and outputs  
 - Understand real-world usage of tools  
 
----
-
 ## ⚙️ Environment
 
 - OS: Kali Linux  
 - Setup: Virtual Machine (VirtualBox/VMware)  
 - Lab: Local testing environment  
-
----
 
 ## 🧭 Learning Roadmap
 
