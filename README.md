@@ -28,5 +28,3 @@ This repository contains practical cybersecurity experiments performed on Kali L
 - [ ] Web vulnerabilities (XSS, SQL Injection)  
 - [ ] Privilege escalation  
 - [ ] Advanced enumeration  
-
----
