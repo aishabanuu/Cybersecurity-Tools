@@ -19,11 +19,15 @@ Kali Linux usually includes Nmap by default.
 
 Verify installation:
 
-bash nmap --version 
+```bash
+nmap --version 
+```
 
 Install if necessary:
 
-bash sudo apt update sudo apt install nmap 
+```bash
+sudo apt update sudo apt install nmap 
+```
 
 ## Basic Workflow
 
@@ -43,6 +47,10 @@ bash sudo apt update sudo apt install nmap
 
 ## Useful Resources
 
-bash man nmap 
+```bash
+man nmap 
+```
 
-bash nmap --help 
+```bash
+nmap --help 
+```
